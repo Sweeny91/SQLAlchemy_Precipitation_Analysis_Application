@@ -1,6 +1,5 @@
 # sqlalchemy_challenge
-<<<<<<< HEAD
-
+All Tasks below were finished to completion. Bonus Analysis has not yet been submitted.
 
 Step 1 - Climate Analysis and Exploration
 - Began by, using Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. All of the following analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
@@ -79,5 +78,3 @@ Routes Established
 - Returned a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
 - When only given the start date, calculated TMIN, TAVG, and TMAX for all dates greater than and equal to the start date.
 - When given the start and the end date, calculated the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
-=======
->>>>>>> a73a7261bd68a489ddee733d89aff4ea25dfcc9a
