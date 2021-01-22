@@ -52,6 +52,9 @@ Station Analysis
 - Plotted the results as a histogram with bins=12.
 
 
+
+
+
 Step 2 - Climate App
 
 - Flask API was designed based on the queries that were developed and mentioned above.
