@@ -40,7 +40,7 @@ Station Analysis
 
 - Used the most active station id to calculate the lowest, highest, and average temperature. 
 
-- Design a query to retrieve the last 12 months of temperature observation data (TOBS).
+- Designed a query to retrieve the last 12 months of temperature observation data (TOBS).
 
 - Filtered by the station with the highest number of observations.
 
