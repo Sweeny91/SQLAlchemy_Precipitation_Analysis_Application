@@ -1,7 +1,7 @@
 # sqlalchemy_challenge
 All Tasks below were finished to completion. Bonus Analysis has not yet been submitted.
 - Main script to be ran for analysis is "climate_analysis.ipynb"
-- The climate app produced for part 2 can be found in "app.py
+- The climate app produced for part 2 can be found in "app.py"
 - Note: original, unmodified starter files can be found in the instructions folder
 
 Step 1 - Climate Analysis and Exploration
