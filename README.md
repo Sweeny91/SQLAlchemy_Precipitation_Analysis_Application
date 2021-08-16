@@ -47,10 +47,10 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * Calculate the rainfall per weather station using the previous year's matching dates.
   * Sort this in descending order by precipitation amount and list the station, name, latitude, longitude, and elevation.
-* Calculate the daily normals. Normals are the averages for the min, avg, and max temperatures. You are provided with a function called `daily_normals` that will calculate the daily normals for a specific date. This date string will be in the format `%m-%d`. Be sure to use all historic TOBS that match that date string.
-
+ 
   ![daily-normals](Images/daily-normals.png)
-
+  
+ """
 
 # Deliverables:
 
